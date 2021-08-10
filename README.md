@@ -15,6 +15,6 @@
 
 
 
-[email]: (mailto:vinay.krishna19@imperial.ac.uk)
+[email](mailto:vinay.krishna19@imperial.ac.uk)
 [linkedin]: https://www.linkedin.com/in/vinaykrishna64/
 [researchgate]: https://www.researchgate.net/profile/Vinay_Krishna_Nelli
