@@ -5,6 +5,7 @@
 - 🥅 I did M.Sc in Engineering Fluid Mechanics at Imperial College London
 - 🥅 I did B.Tech in Ocean Engineering and Naval Architecture at IIT, Kharagpur
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to do math and code!
 <br />
 ### Connect with me:
 
