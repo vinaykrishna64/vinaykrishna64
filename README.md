@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Vinay
 
-<!--
-**vinaykrishna64/vinaykrishna64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a PhD at university of Waikato titled "Bridging the laboratory-field divide to accurately predict the evolution of coastlines"
 - 🌱 I’m looking to collaborate on opensource fluid mechanics problems (preferably on coastal engineering)
 - 🥅 I did M.Sc in Engineering Fluid Mechanics at Imperial College London
