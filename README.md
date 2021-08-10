@@ -4,7 +4,6 @@
 - 🌱 I’m looking to collaborate on opensource fluid mechanics problems (preferably on coastal engineering)
 - 🥅 I did M.Sc in Engineering Fluid Mechanics at Imperial College London
 - 🥅 I did B.Tech in Ocean Engineering and Naval Architecture at IIT, Kharagpur
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 <br />
 ### Connect with me:
@@ -15,6 +14,7 @@
 
 <br />
 ### Languages and Tools:
+
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
