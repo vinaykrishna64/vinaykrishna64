@@ -21,7 +21,7 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />...
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/150px-Matlab_Logo.png" />
 <img align="left" alt="Fortran" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/180px-Fortran_logo.svg.png" />
-<img align="left" alt="OpenFoAm" width="80px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/OpenFOAM_software_logo.png/206px-OpenFOAM_software_logo.png" />
+<img align="left" alt="OpenFoAm" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/OpenFOAM_logo.svg/1920px-OpenFOAM_logo.svg.png" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Latex" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/474px-LaTeX_project_logo_bird.svg.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
